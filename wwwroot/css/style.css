@@ -1,0 +1,44 @@
+.navbar{
+    text-align: center;
+
+}
+a{
+    margin-left: 15px;
+}
+.border{
+    padding: 0px 10px 0px 10px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+.header{
+    text-align: center;
+}
+.left-content{
+    margin-left: 200px;
+    display: inline-block;
+}
+.right-content{
+    vertical-align: top;
+    width: 500px;
+    display: inline-block;
+    margin-left: 300px;
+}
+.center-content{
+    height: 400px;
+    width: 800px;
+    overflow: auto;
+    margin: 0 auto;
+}
+img{
+    display: inline-block;
+}
+.dank{
+    margin-left: 100px;
+    display: inline-block;
+}
+.form{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
